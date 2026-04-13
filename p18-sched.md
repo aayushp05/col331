@@ -1,6 +1,6 @@
 ## Scheduler
 
-Previous part started two processes but when we pressed "Ctrl+P", we note that
+Previous part started two processes but when we pressed "Ctrl+P", we noted that
 actually only the first process is running all the time. This situation is
 referred to as *starvation*: the second process is *starved* for CPU resources.
 Such an OS is *not fair* to its processes. 
